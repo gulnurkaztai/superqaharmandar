@@ -11,6 +11,8 @@ Marvel, DC, jäne X-adamdar älemder superqaharmandarynyñ qazaqşa ataulary
 
 <code> import superqaharmandar from 'superqaharmandar'; </code>
 
+
+
 superqaharmandar.all;
 
   // ['Akvamen', 'Alqyzyl mystan', 'Atom', …]
