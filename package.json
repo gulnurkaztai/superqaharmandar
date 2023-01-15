@@ -1,0 +1,38 @@
+{
+  "name": "superqaharmandar",
+  "version": "1.0.0",
+  "description": "Qazaq names of superheroes",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulnurkaztai/superqaharmandar.git"
+  },
+  "keywords": [
+    "qazaq",
+    "kazak",
+    "superqaharmandar",
+    "superqaharman",
+    "names",
+    "superhero",
+    "superheroes",
+    "marvel",
+    "dc",
+    "x-men",
+    "random",
+    "array",
+    "list"
+  ],
+  "author": "Gulnur Kaztai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gulnurkaztai/superqaharmandar/issues"
+  },
+  "homepage": "https://github.com/gulnurkaztai/superqaharmandar#readme",
+  "dependencies": {
+    "unique-random-array": "^3.0.0"
+  }
+}
