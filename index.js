@@ -3,3 +3,5 @@ import uniqueRandomArray from 'unique-random-array';
 
 const all = superqaharmandar;
 const random = uniqueRandomArray(superqaharmandar);
+
+export {random, all};
