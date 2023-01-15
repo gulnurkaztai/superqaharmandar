@@ -2,24 +2,27 @@
 
 Marvel, DC, jäne X-adamdar älemder superqaharmandarynyñ qazaqşa ataulary
 
-Ornatu
+
+<h4>Ornatu</h4>
 
 <code> $ npm install superqaharmandar </code>
 
-Paidalanu
+<h4>Paidalanu</h4>
 
 <code> import superqaharmandar from 'superqaharmandar'; </code>
 
 superqaharmandar.all;
+
 // ['Akvamen', 'Alqyzyl mystan', 'Atom', …]
 
 superqaharmandar.random();
+
 // 'Jūldyzdy Lord'
 
 
-API
+<h4>API</h4>
 
-.all
+<code> .all</code>
 
 Türı: string[]
 
@@ -27,7 +30,7 @@ Superqaharmandar ataularyn älıpbi retımen şyğarady.
 
 
 
-.random()
+<code> .random()</code>
 
 Türı: Function
 
