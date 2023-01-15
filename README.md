@@ -9,17 +9,17 @@ Marvel, DC, jäne X-adamdar älemder superqaharmandarynyñ qazaqşa ataulary
 
 <h4>Paidalanu</h4>
 
-<code> import superqaharmandar from 'superqaharmandar'; 
+<code> import superqaharmandar from 'superqaharmandar'; </code>
 
 
-superqaharmandar.all;
+<code>superqaharmandar.all;</code>
 
-  // ['Akvamen', 'Alqyzyl mystan', 'Atom', …]
+<code>  // ['Akvamen', 'Alqyzyl mystan', 'Atom', …]</code>
 
-superqaharmandar.random();
+<code>superqaharmandar.random();</code>
 
-  // 'Jūldyzdy Lord'
-  </code>
+<code>  // 'Jūldyzdy Lord'</code>
+  
 
 
 <h4>API</h4>
