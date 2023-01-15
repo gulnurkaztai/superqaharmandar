@@ -11,6 +11,7 @@ Marvel, DC, jäne X-adamdar älemder superqaharmandarynyñ qazaqşa ataulary
 
 <code> import superqaharmandar from 'superqaharmandar'; </code>
 
+$ npm install superqaharmandar
 
 <code>superqaharmandar.all;</code>
 
