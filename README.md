@@ -14,11 +14,11 @@ Marvel, DC, jäne X-adamdar älemder superqaharmandarynyñ qazaqşa ataulary
 
 <code>superqaharmandar.all;</code>
 
-<sub>  // ['Akvamen', 'Alqyzyl mystan', 'Atom', …]</sub>
+<sub>     ['Akvamen', 'Alqyzyl mystan', 'Atom', …]</sub>
 
 <code>superqaharmandar.random();</code>
 
-<sub>  // 'Jūldyzdy Lord'</sub>
+<sub>     'Jūldyzdy Lord'</sub>
   
 
 #### API
