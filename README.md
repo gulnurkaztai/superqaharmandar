@@ -9,8 +9,7 @@ Marvel, DC, jäne X-adamdar älemder superqaharmandarynyñ qazaqşa ataulary
 
 <h4>Paidalanu</h4>
 
-<code> import superqaharmandar from 'superqaharmandar'; </code>
-
+<code> import superqaharmandar from 'superqaharmandar'; 
 
 
 superqaharmandar.all;
@@ -20,6 +19,7 @@ superqaharmandar.all;
 superqaharmandar.random();
 
   // 'Jūldyzdy Lord'
+  </code>
 
 
 <h4>API</h4>
