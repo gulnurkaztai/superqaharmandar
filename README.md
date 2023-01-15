@@ -23,7 +23,7 @@ Marvel, DC, jäne X-adamdar älemder superqaharmandarynyñ qazaqşa ataulary
 
 #### API
 
-<code> .all</code>
+<code>.all</code>
 
 Türı: <code> string[]</code>
 
@@ -31,7 +31,7 @@ Superqaharmandar ataularyn älıpbi retımen şyğarady.
 
 
 
-<code> .random()</code>
+<code>.random()</code>
 
 Türı: <code>Function</code>
 
