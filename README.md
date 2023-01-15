@@ -3,30 +3,29 @@
 Marvel, DC, jäne X-adamdar älemder superqaharmandarynyñ qazaqşa ataulary
 
 
-<h4>Ornatu</h4>
+#### Ornatu
 
 <code> $ npm install superqaharmandar </code>
 
-<h4>Paidalanu</h4>
+#### Paidalanu
 
 <code> import superqaharmandar from 'superqaharmandar'; </code>
 
 
 <code>superqaharmandar.all;</code>
 
-<code>  // ['Akvamen', 'Alqyzyl mystan', 'Atom', …]</code>
+<sub>  // ['Akvamen', 'Alqyzyl mystan', 'Atom', …]</sub>
 
 <code>superqaharmandar.random();</code>
 
-<code>  // 'Jūldyzdy Lord'</code>
+<sub>  // 'Jūldyzdy Lord'</sub>
   
 
-
-<h4>API</h4>
+#### API
 
 <code> .all</code>
 
-Türı: string[]
+Türı: <code> string[]</code>
 
 Superqaharmandar ataularyn älıpbi retımen şyğarady.
 
@@ -34,6 +33,6 @@ Superqaharmandar ataularyn älıpbi retımen şyğarady.
 
 <code> .random()</code>
 
-Türı: Function
+Türı: <code>Function</code>
 
 Kez kelgen superqaharmandar atauyn şyğarady.
