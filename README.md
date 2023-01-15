@@ -4,11 +4,11 @@ Marvel, DC, jäne X-adamdar älemder superqaharmandarynyñ qazaqşa ataulary
 
 Ornatu
 
-$ npm install superqaharmandar
+<code> $ npm install superqaharmandar </code>
 
 Paidalanu
 
-import superqaharmandar from 'superqaharmandar';
+<code> import superqaharmandar from 'superqaharmandar'; </code>
 
 superqaharmandar.all;
 // ['Akvamen', 'Alqyzyl mystan', 'Atom', …]
