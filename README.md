@@ -1,5 +1,8 @@
 # superqaharmandar
 
+![7259e61a-c9f0-456c-a591-3548791b1ea8](https://user-images.githubusercontent.com/117017533/215943207-39826cbd-f418-43a2-8124-cc4e14236ac2.jpeg)
+
+
 Marvel, DC, jäne X-adamdar älemder superqaharmandarynyñ qazaqşa ataulary
 
 
